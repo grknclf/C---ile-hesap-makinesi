@@ -1,0 +1,3 @@
+C:/Users/Gürkan/OneDrive/Masaüstü/grknclf/Githubproje/cmake-build-debug/CMakeFiles/Githubproje.dir
+C:/Users/Gürkan/OneDrive/Masaüstü/grknclf/Githubproje/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gürkan/OneDrive/Masaüstü/grknclf/Githubproje/cmake-build-debug/CMakeFiles/rebuild_cache.dir
